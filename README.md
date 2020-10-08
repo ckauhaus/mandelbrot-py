@@ -20,7 +20,7 @@ bin/pip install -e .
 ## Directory contents
 
 src/mandelbrot.rs
-    Rust lib which does the actual compatation
+    Rust lib which does the actual computation
 
 src/main.rs
     Rust command line wrapper
